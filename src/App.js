@@ -38,7 +38,8 @@ const App = () => {
           marginTop: "10px",
           textAlign: "center"
         }}
-        mandatory={false}
+        mandatory={true}
+        flag={true}
       />
       <Button
                             value='Get Data'
