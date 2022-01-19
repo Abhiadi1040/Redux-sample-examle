@@ -1,0 +1,17 @@
+.app-button  {
+    /* padding: 10px 30px; */
+    /* border: none; */
+    background-color: #78557c;
+    color: white;
+    font-weight: bold;
+    height:25px;
+    
+   /* text-align: center; */
+   /* align-items: center; */
+    /* transition: all 0.4s; */
+    /* margin-left: 250px; */
+}
+
+/* .app-button:hover {
+    background: brown;
+} */

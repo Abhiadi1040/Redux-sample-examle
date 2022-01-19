@@ -1,0 +1,84 @@
+.Mheader {
+    /* background-color: #78557c; */
+    /* background: linear-gradient(90deg, rgba(149,106,146,1) 24%, rgba(34,29,35,1) 50%, rgba(84,34,84,1) 100%); */
+    background-color: #7f0046;
+    height: 30px;
+    align-items: center;
+  }
+  .Mheadings {
+    color: #525252;
+    font-size: 13px;
+    /* position: relative; */
+  }
+  
+  .modal-body {
+    position: relative;
+    flex: 1 1 auto;
+    padding: 0rem;
+  }
+  .modal-header .close {
+    padding: 0rem 1rem;
+    margin: -1rem -1rem -1rem auto;
+    align-self: baseline;
+  }
+  .modal-dialog {
+  }
+  .ModalWidth {
+    overflow: 'show';
+  }
+  #export_all_help {
+    top: 0;
+    right: 22%;
+  }
+  #export_all_help .modal-body {
+    height: 215px !important;
+    color: #000;
+  }
+  #export_options {
+    top: 5%;
+  }
+  .modal-backdrop {
+    background-color: #fff;
+  }
+  .modal-header .close {
+    outline: none;
+    border: 0px;
+  }
+  #FilterModalShow {
+    top: 35%;
+    /* right: 30%; */
+  }
+  #FilterModalShow .modal-content {
+    width: 85% !important;
+  }
+  #dateFilterShow {
+    top: 35% !important;
+    /* right: 30% !important; */
+  }
+  #dateFilterShow .modal-content {
+    width: 86% !important;
+  }
+  #MappingFilterModalShow {
+    top: 35% !important;
+    /* right: 30% !important; */
+  }
+  #MappingFilterModalShow .modal-content {
+    width: 65% !important;
+  }
+  #NumberFilterModal {
+    top: 35% !important;
+  }
+  #NumberFilterModal .modal-content {
+    width: 83% !important;
+  }
+  .buttonStyleFilter {
+    width: 110px !important;
+    background-color: #7f0046 !important;
+    height: 25px !important;
+  }
+  .buttonStyleFilterOk {
+    width: 70px !important;
+    background-color: #7f0046 !important;
+    height: 25px !important;
+  }
+  

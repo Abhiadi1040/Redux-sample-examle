@@ -1,0 +1,16 @@
+.divWithBorder{
+    border:1px solid #AAAAAA; 
+    height:30px;
+    
+}
+.labelWithBorder{
+    font-weight: bold;
+    margin-top: 3px; 
+    margin-bottom: 10px;
+    margin-left:10px;
+    font-size: 13px;
+}
+
+.labelNoBorder{
+    font-size: 13px;
+}
